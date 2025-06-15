@@ -50,8 +50,8 @@ I'm always seeking opportunities to contribute to projects that:
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations, discussions on tech, or just to say hello!
-* **Email**: luthfafi.work@gmail.com
-* **LinkedIn**: [Your LinkedIn Profile URL Here](https://www.linkedin.com/in/luthfafi/)
+* **Email**: luthfafiwork@gmail.com
+* **LinkedIn**: [https://www.linkedin.com/in/luthfafi](https://www.linkedin.com/in/luthfafi/)
 
 ---
 
