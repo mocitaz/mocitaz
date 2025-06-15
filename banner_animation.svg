@@ -1,18 +1,13 @@
 <svg width="800" height="80" viewBox="0 0 800 80" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0A0A1F;stop-opacity:1" /> <!-- Deep Space Blue -->
-      <stop offset="50%" style="stop-color:#1C1C3A;stop-opacity:1" /> <!-- Dark Nebula -->
-      <stop offset="100%" style="stop-color:#0A0A1F;stop-opacity:1" /> <!-- Deep Space Blue -->
-    </linearGradient>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4A00E0;stop-opacity:1" /> <!-- Vibrant Purple -->
-      <stop offset="50%" style="stop-color:#8E2DE2;stop-opacity:1" /> <!-- Electric Blue -->
-      <stop offset="100%" style="stop-color:#4A00E0;stop-opacity:1" /> <!-- Vibrant Purple -->
+      <stop offset="0%" style="stop-color:#3C0000;stop-opacity:1" /> <!-- Deep Red -->
+      <stop offset="50%" style="stop-color:#8B0000;stop-opacity:1" /> <!-- Fiery Red -->
+      <stop offset="100%" style="stop-color:#3C0000;stop-opacity:1" /> <!-- Deep Red -->
     </linearGradient>
     <filter id="neonGlow">
       <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
-      <feFlood flood-color="#8E2DE2" flood-opacity="0.8"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.8"/>
       <feComposite in2="blur" operator="in"/>
       <feMerge>
         <feMergeNode/>
@@ -20,11 +15,11 @@
       </feMerge>
     </filter>
     <filter id="softShadow">
-      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.6)"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.7)"/>
     </filter>
     <filter id="trailGlow">
       <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
-      <feFlood flood-color="#4A00E0" flood-opacity="0.5"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.5"/>
       <feComposite in2="blur" operator="in"/>
       <feMerge>
         <feMergeNode/>
@@ -37,7 +32,7 @@
       font-family: 'Orbitron', sans-serif;
       font-size: 24px;
       font-weight: 700;
-      fill: url(#textGradient);
+      fill: #000000; /* Black */
       white-space: pre;
       filter: url(#neonGlow) url(#trailGlow);
       animation: marquee 10s linear infinite, glowPulse 2s ease-in-out infinite;
@@ -47,7 +42,7 @@
       font-family: 'Montserrat', sans-serif;
       font-size: 16px;
       font-weight: 600;
-      fill: #D8D8F0;
+      fill: #000000; /* Black */
       white-space: pre;
       text-anchor: middle;
       filter: url(#softShadow);
@@ -72,7 +67,7 @@
     }
 
     .particle {
-      fill: url(#textGradient);
+      fill: #8B0000; /* Fiery Red */
       opacity: 0;
       animation: sparkle 2s ease-in-out infinite;
     }
