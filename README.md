@@ -5,7 +5,7 @@ A dedicated **Informatics student** at Telkom University with a profound passion
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mocitaz/Mocitaz/main/assets/banner_animation.svg" alt="Animated Banner">
+  <img src="https://raw.githubusercontent.com/Mocitaz/Mocitaz/main/banner_animation.svg" alt="Animated Banner">
 </p>
 
 ---
