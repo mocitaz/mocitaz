@@ -1,18 +1,18 @@
 <svg width="800" height="80" viewBox="0 0 800 80" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1A1A1A;stop-opacity:1" /> <!-- Deep Black -->
-      <stop offset="50%" style="stop-color:#2D2D2D;stop-opacity:1" /> <!-- Dark Gray -->
-      <stop offset="100%" style="stop-color:#1A1A1A;stop-opacity:1" /> <!-- Deep Black -->
+      <stop offset="0%" style="stop-color:#0A0A1F;stop-opacity:1" /> <!-- Deep Space Blue -->
+      <stop offset="50%" style="stop-color:#1C1C3A;stop-opacity:1" /> <!-- Dark Nebula -->
+      <stop offset="100%" style="stop-color:#0A0A1F;stop-opacity:1" /> <!-- Deep Space Blue -->
     </linearGradient>
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:1" /> <!-- Neon Cyan -->
-      <stop offset="50%" style="stop-color:#FF2E63;stop-opacity:1" /> <!-- Neon Pink -->
-      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:1" /> <!-- Neon Cyan -->
+      <stop offset="0%" style="stop-color:#4A00E0;stop-opacity:1" /> <!-- Vibrant Purple -->
+      <stop offset="50%" style="stop-color:#8E2DE2;stop-opacity:1" /> <!-- Electric Blue -->
+      <stop offset="100%" style="stop-color:#4A00E0;stop-opacity:1" /> <!-- Vibrant Purple -->
     </linearGradient>
     <filter id="neonGlow">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/>
-      <feFlood flood-color="#00D4FF" flood-opacity="0.9"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#8E2DE2" flood-opacity="0.8"/>
       <feComposite in2="blur" operator="in"/>
       <feMerge>
         <feMergeNode/>
@@ -20,10 +20,17 @@
       </feMerge>
     </filter>
     <filter id="softShadow">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.5)"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.6)"/>
     </filter>
-    <!-- Pulsating gradient animation -->
-    <animate id="pulse" attributeName="stop-color" values="#1A1A1A;#2D2D2D;#1A1A1A" dur="4s" repeatCount="indefinite"/>
+    <filter id="trailGlow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#4A00E0" flood-opacity="0.5"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   <style>
     .mainText {
@@ -32,19 +39,19 @@
       font-weight: 700;
       fill: url(#textGradient);
       white-space: pre;
-      filter: url(#neonGlow);
-      animation: marquee 12s linear infinite, flicker 0.1s infinite;
+      filter: url(#neonGlow) url(#trailGlow);
+      animation: marquee 10s linear infinite, glowPulse 2s ease-in-out infinite;
     }
 
     .subtitle {
       font-family: 'Montserrat', sans-serif;
       font-size: 16px;
       font-weight: 600;
-      fill: #E0E0E0;
+      fill: #D8D8F0;
       white-space: pre;
       text-anchor: middle;
       filter: url(#softShadow);
-      animation: fadeInScale 1.8s ease-out forwards;
+      animation: cinematicFadeIn 2s ease-out forwards;
       opacity: 0;
     }
 
@@ -53,45 +60,46 @@
       100% { transform: translateX(-1800px); }
     }
 
-    @keyframes flicker {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.95; }
+    @keyframes glowPulse {
+      0%, 100% { filter: url(#neonGlow) url(#trailGlow) brightness(1); }
+      50% { filter: url(#neonGlow) url(#trailGlow) brightness(1.3); }
     }
 
-    @keyframes fadeInScale {
-      0% { opacity: 0; transform: scale(0.8) translateY(10px); }
-      60% { opacity: 0.7; transform: scale(1.05); }
-      100% { opacity: 1; transform: scale(1) translateY(0); }
+    @keyframes cinematicFadeIn {
+      0% { opacity: 0; transform: translateY(15px) scale(0.9); }
+      70% { opacity: 0.8; transform: translateY(-5px) scale(1.02); }
+      100% { opacity: 1; transform: translateY(0) scale(1); }
     }
 
     .particle {
-      fill: #00D4FF;
+      fill: url(#textGradient);
       opacity: 0;
-      animation: sparkle 1.5s infinite;
+      animation: sparkle 2s ease-in-out infinite;
     }
 
     @keyframes sparkle {
-      0% { opacity: 0; transform: scale(0) translate(0,0); }
-      50% { opacity: 1; transform: scale(1.5) translate(5px,-5px); }
-      100% { opacity: 0; transform: scale(0) translate(10px,-10px); }
+      0% { opacity: 0; transform: scale(0) translate(0, 0); }
+      50% { opacity: 1; transform: scale(1.8) translate(calc(10px * var(--rand-x)), calc(-10px * var(--rand-y))); }
+      100% { opacity: 0; transform: scale(0) translate(calc(20px * var(--rand-x)), calc(-20px * var(--rand-y))); }
     }
 
     .background {
-      animation: pulseBackground 4s ease-in-out infinite;
+      animation: waveBackground 6s ease-in-out infinite;
     }
 
-    @keyframes pulseBackground {
-      0%, 100% { opacity: 0.9; }
-      50% { opacity: 1; }
+    @keyframes waveBackground {
+      0%, 100% { fill: url(#backgroundGradient); opacity: 0.85; }
+      50% { fill: url(#backgroundGradient); opacity: 1; }
     }
   </style>
-  <rect width="800" height="80" rx="10" fill="url(#backgroundGradient)" class="background"/>
-  <!-- Enhanced particle effects -->
-  <circle cx="40" cy="15" r="3" class="particle" style="animation-delay: 0s"/>
-  <circle cx="120" cy="65" r="2" class="particle" style="animation-delay: 0.3s"/>
-  <circle cx="250" cy="25" r="4" class="particle" style="animation-delay: 0.6s"/>
-  <circle cx="500" cy="60" r="3" class="particle" style="animation-delay: 0.9s"/>
-  <circle cx="720" cy="30" r="2" class="particle" style="animation-delay: 1.2s"/>
+  <rect width="800" height="80" rx="12" fill="url(#backgroundGradient)" class="background"/>
+  <!-- Enhanced particle effects with varied positions and delays -->
+  <circle cx="50" cy="20" r="3" class="particle" style="--rand-x: 1; --rand-y: 1; animation-delay: 0s"/>
+  <circle cx="150" cy="60" r="2.5" class="particle" style="--rand-x: -0.5; --rand-y: 0.8; animation-delay: 0.4s"/>
+  <circle cx="300" cy="30" r="4" class="particle" style="--rand-x: 0.7; --rand-y: -1; animation-delay: 0.8s"/>
+  <circle cx="450" cy="50" r="3.5" class="particle" style="--rand-x: -1; --rand-y: 0.6; animation-delay: 1.2s"/>
+  <circle cx="600" cy="25" r="2" class="particle" style="--rand-x: 0.9; --rand-y: -0.7; animation-delay: 1.6s"/>
+  <circle cx="750" cy="55" r="3" class="particle" style="--rand-x: -0.8; --rand-y: 1; animation-delay: 2s"/>
   <text x="0" y="40" class="mainText">
     🚀 Innovating Tomorrow • Building Smart Solutions • Creating Immersive Experiences • Leading Tech Frontiers • Collaborate Now! 🌌
   </text>
