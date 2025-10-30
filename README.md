@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=200&section=header&text=LUTHFI%20FAUZI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,10:667EEA,30:764BA2,50:F093FB,70:4FACFE,100:00F2FE&height=250&section=header&text=LUTHFI%20FAUZI&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 </div>
+
+<br>
 
 <p align="center">
   <b>🤖 Machine Learning Engineer | 💻 Full Stack Developer | ☁️ Cloud Architect</b>
