@@ -599,6 +599,64 @@ Exciting projects &<br>new challenges
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900"/>
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oEjHXDQt3m4d1wGlO/giphy.gif" width="150">
+
+<br><br>
+
+<h3>💖 Appreciate my work?</h3>
+
+<p>
+<i>If you like what I do and want to support my journey in tech,<br>
+consider buying me a coffee! Your support means the world to me! 🙏</i>
+</p>
+
+<br>
+
+<a href="https://saweria.co/mocitaz" target="_blank">
+  <img src="https://img.shields.io/badge/☕_Support_Me_on-Saweria-FF6C37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Saweria" height="50"/>
+</a>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="60">
+<br><br>
+<b>☕ Coffee Fuel</b><br>
+Helps me code<br>through the night
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60">
+<br><br>
+<b>🚀 Motivation</b><br>
+Keeps me building<br>awesome projects
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif" width="60">
+<br><br>
+<b>💡 Innovation</b><br>
+Enables more<br>open source work
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6C37&center=true&vCenter=true&width=600&lines=Every+support+makes+a+difference!+%E2%9D%A4%EF%B8%8F;Thank+you+for+being+awesome!+%F0%9F%99%8F;Together+we+build+better+tech!+%F0%9F%92%AA" alt="Support Message"/>
+</p>
+
+</div>
+
 ---
 
 <div align="center">
@@ -655,4 +713,3 @@ Exciting projects &<br>new challenges
 </p>
 
 </div>
-
