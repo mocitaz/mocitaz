@@ -661,41 +661,30 @@ Enables more<br>open source work
 
 <div align="center">
 
-<!-- Epic Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 <br>
 
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+innovate+together!+%F0%9F%9A%80;Keep+coding%2C+keep+learning!+%F0%9F%92%BB;See+you+around!+%F0%9F%91%8B" alt="Closing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+innovate+together!+%F0%9F%9A%80;Keep+coding%2C+keep+learning!+%F0%9F%92%BB" alt="Closing"/>
 </h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-red?style=for-the-badge" alt=""/>
+  <img src="https://img.shields.io/badge/Built%20with-✨_Passion-orange?style=for-the-badge" alt=""/>
+  <img src="https://img.shields.io/badge/Made%20in-Indonesia%20🇮🇩-e74c3c?style=for-the-badge" alt=""/>
+</p>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt=""/>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Powered%20by-☕_Coffee-brown?style=for-the-badge" alt=""/>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Built%20with-✨_Passion-orange?style=for-the-badge" alt=""/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table border="0">
-<tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25">
 </td>
 <td>
-<h3>Keep Learning • Keep Building • Keep Innovating</h3>
+<b>Keep Learning • Keep Building • Keep Innovating</b>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25">
 </td>
 </tr>
 </table>
@@ -703,13 +692,5 @@ Enables more<br>open source work
 <br>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br>
-
-<p>
-<img src="https://img.shields.io/github/last-commit/mocitaz/mocitaz?style=flat-square&color=00F7F7" alt="Last Commit"/>
-<img src="https://img.shields.io/badge/Made%20in-Indonesia%20🇮🇩-red?style=flat-square" alt="Indonesia"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status"/>
-</p>
 
 </div>
