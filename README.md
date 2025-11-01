@@ -106,7 +106,30 @@ const luthfi = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mocitaz/mocitaz/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  
+### 📊 Detailed GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mocitaz&theme=tokyonight" alt="Profile Details"/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mocitaz&theme=tokyonight" alt="Repos per Language"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mocitaz&theme=tokyonight" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mocitaz&theme=tokyonight" alt="Stats"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mocitaz&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
