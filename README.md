@@ -169,7 +169,7 @@ while (coding) {
 <tr>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<br><b>2018-2022</b>
+<br><b>2021-2025</b>
 <br>🎓 <b>Education</b>
 <br>Telkom University
 <br>Computer Science
