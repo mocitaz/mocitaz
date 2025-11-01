@@ -133,18 +133,30 @@ const luthfi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" alt="divider"/>
 </div>
 
-## 🎵 Currently Vibing To
+## 🎧 My Vibe Zone
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31k6qxq6zdvghfp4lzf2lh2gybmy">
-    <img src="https://novatorem-mocitaz.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-  
-  <br>
-  
-  <a href="https://open.spotify.com/user/31k6qxq6zdvghfp4lzf2lh2gybmy">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/>
-  </a>
+
+<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300" alt="Coding GIF"/>
+
+### 🎵 Music While Coding
+**Lo-Fi Beats** 🎶 | **Electronic** 🎹 | **Indie Rock** 🎸 | **Jazz** 🎺
+
+<br>
+
+### 💭 Current Mood
+```javascript
+while (coding) {
+  listenTo('Chill Music');
+  drinkCoffee();
+  buildAmazingThings();
+}
+```
+
+<a href="https://open.spotify.com/user/31k6qxq6zdvghfp4lzf2lh2gybmy" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+
 </div>
 
 <div align="center">
