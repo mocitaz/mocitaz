@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luthfi%20Fauzi&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Luthfi%20Fauzi&amp;fontSize=44&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descAlign=50" alt="Header"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Seamless+Experiences+%F0%9F%9A%80;Telkom+University+Graduate+%F0%9F%8E%93" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=00F7F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=900&amp;height=80&amp;lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Seamless+Experiences+%F0%9F%9A%80;Telkom+University+Graduate+%F0%9F%8E%93" alt="Typing Animation"/>
 </a>
 
 <!-- Stats & Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mocitaz&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mocitaz?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mocitaz?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=mocitaz&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge&amp;abbreviated=true" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mocitaz?label=Followers&amp;style=for-the-badge&amp;color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mocitaz?label=Stars&amp;style=for-the-badge&amp;color=yellow" alt="Stars"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-orange?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Based%20In-Indonesia-red?style=for-the-badge" alt="Location"/>
 </p>
 
 <!-- Social Links -->
 <p>
-  <a href="https://linkedin.com/in/luthfafi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:luthfafiwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/mocitaz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/luthfafi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:luthfafiwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mocitaz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="divider"/>
@@ -46,7 +46,7 @@ const luthfi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" alt="divider"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28"> Tech Stack
 
 <table align="center">
 <tr>
@@ -83,20 +83,20 @@ const luthfi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mocitaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocitaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mocitaz&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7F7&amp;icon_color=00F7F7&amp;text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocitaz&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7F7&amp;text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocitaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocitaz&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00F7F7&amp;ring=00F7F7&amp;fire=FF6D00&amp;currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocitaz&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocitaz&amp;custom_title=Contribution%20Graph&amp;bg_color=0D1117&amp;color=00F7F7&amp;line=00F7F7&amp;point=FFFFFF&amp;area_color=00F7F7&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mocitaz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mocitaz&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="Trophies"/>
 </div>
 
 <div align="center">
@@ -130,7 +130,11 @@ const luthfi = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6qxq6zdvghfp4lzf2lh2gybmy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify"/>
+  <a href="https://open.spotify.com/user/31k6qxq6zdvghfp4lzf2lh2gybmy">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify Profile"/>
+  </a>
+  <br><br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6qxq6zdvghfp4lzf2lh2gybmy&amp;count=5&amp;unique=true" alt="Spotify Recently Played"/>
 </div>
 
 <div align="center">
@@ -180,7 +184,7 @@ gantt
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 <div align="center">
@@ -194,9 +198,9 @@ gantt
 I'm always open to interesting conversations and collaboration opportunities!
 
 <p>
-  <a href="https://linkedin.com/in/luthfafi"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:luthfafiwork@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/mocitaz"><img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/luthfafi"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:luthfafiwork@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mocitaz"><img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -206,7 +210,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=20&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75" alt="Footer"/>
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
