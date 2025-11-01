@@ -163,23 +163,66 @@ while (coding) {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900" alt="divider"/>
 </div>
 
-## 💼 Journey Timeline
+## 🚀 My Journey
 
-```mermaid
-gantt
-  title Career & Project Journey
-  dateFormat  YYYY-MM
-  section Education
-  Telkom University           :2018-09, 2022-06
-  section ML Projects
-  Computer Vision Models      :2022-01, 2022-12
-  NLP Applications            :2023-01, 2023-12
-  section Web Development
-  Full Stack Applications     :2022-06, 2024-12
-  Cloud Deployment            :2023-06, 2024-12
-  section Current
-  ML Engineer & Full Stack    :2024-01, 2025-12
-```
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<br><b>2018-2022</b>
+<br>🎓 <b>Education</b>
+<br>Telkom University
+<br>Computer Science
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+<br><b>2022-2023</b>
+<br>🤖 <b>ML Projects</b>
+<br>Computer Vision
+<br>NLP Applications
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<br><b>2022-2024</b>
+<br>💻 <b>Full Stack</b>
+<br>Web Applications
+<br>Cloud Deployment
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
+<br><b>2024-Now</b>
+<br>⚡ <b>Current</b>
+<br>ML Engineer &
+<br>Full Stack Dev
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 What I'm Building Now
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
+<br><b>AI Solutions</b>
+<br>Deep Learning Models
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60">
+<br><b>Web Apps</b>
+<br>Modern Interfaces
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60">
+<br><b>Cloud Systems</b>
+<br>Scalable Architecture
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900" alt="divider"/>
