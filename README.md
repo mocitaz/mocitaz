@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luthfi%20Fauzi&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+<!-- Animated Header -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Luthfi+Fauzi" alt="Typing SVG" />
+</h1>
+
+<h3>🤖 Machine Learning Engineer | 💻 Full Stack Developer</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=00F7F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=900&amp;height=80&amp;lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Seamless+Experiences+%F0%9F%9A%80;Telkom+University+Graduate+%F0%9F%8E%93" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Seamless+Experiences+%F0%9F%9A%80;Telkom+University+Graduate+%F0%9F%8E%93" alt="Typing Animation"/>
 </a>
 
 <!-- Stats & Badges -->
@@ -213,8 +219,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Thanks"/>
+</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
