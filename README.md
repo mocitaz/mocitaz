@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Luthfi%20Fauzi&amp;fontSize=44&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descAlign=50" alt="Header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luthfi%20Fauzi&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luthfi%20Fauzi&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header"/>
+</picture>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -131,10 +134,14 @@ const luthfi = {
 
 <div align="center">
   <a href="https://open.spotify.com/user/31k6qxq6zdvghfp4lzf2lh2gybmy">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify Profile"/>
+    <img src="https://novatorem-mocitaz.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
   </a>
-  <br><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6qxq6zdvghfp4lzf2lh2gybmy&amp;count=5&amp;unique=true" alt="Spotify Recently Played"/>
+  
+  <br>
+  
+  <a href="https://open.spotify.com/user/31k6qxq6zdvghfp4lzf2lh2gybmy">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/>
+  </a>
 </div>
 
 <div align="center">
@@ -210,7 +217,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=20&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75" alt="Footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
+</picture>
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
