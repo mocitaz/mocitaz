@@ -7,12 +7,11 @@
 
 <h3>🤖 Machine Learning Engineer | 💻 Full Stack Developer</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Passionate+about+AI+and+Web+Development;Always+learning%2C+always+building;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Subtitle"/>
+</p>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Seamless+Experiences+%F0%9F%9A%80;Telkom+University+Graduate+%F0%9F%8E%93" alt="Typing Animation"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- Stats & Badges -->
 <p>
