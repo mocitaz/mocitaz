@@ -35,33 +35,104 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+<div align="center">
 
-```typescript
-class Developer {
-  name: string = "Luthfi Fauzi";
-  role: string[] = ["ML Engineer", "Full Stack Developer"];
-  location: string = "Indonesia 🇮🇩";
-  
-  education = {
-    university: "Telkom University",
-    degree: "Computer Science",
-    year: "2021-2025"
-  };
-  
-  currentlyLearning = [
-    "Advanced Deep Learning",
-    "System Design",
-    "Cloud Architecture"
-  ];
-  
-  motto = () => {
-    return "Building the future, one algorithm at a time 🚀";
-  }
-}
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Quick Intro
+
+```yaml
+name: Luthfi Fauzi
+located_in: Indonesia 🇮🇩
+current_role: 
+  - Machine Learning Engineer
+  - Full Stack Developer
+
+education:
+  university: "Telkom University"
+  major: "Computer Science"
+  period: "2021 - 2025"
+  status: "Graduating Soon 🎓"
+
+interests:
+  - Artificial Intelligence 🤖
+  - Web Development 🌐
+  - Cloud Computing ☁️
+  - Open Source 💚
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Current Status
+
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.learning = [
+            "Advanced Deep Learning",
+            "System Design Patterns",
+            "Cloud Architecture (AWS/GCP)",
+            "Microservices & DevOps"
+        ]
+        
+        self.working_on = [
+            "AI/ML Projects",
+            "Full Stack Applications",
+            "Personal Portfolio"
+        ]
+        
+        self.hobbies = [
+            "Coding 💻",
+            "Reading Tech Blogs 📚",
+            "Listening to Music 🎵",
+            "Coffee Enthusiast ☕"
+        ]
+    
+    def say_hi(self):
+        return "Thanks for visiting my profile!"
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+<br><b>Student</b>
+<br>Computer Science
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
+<br><b>ML Engineer</b>
+<br>AI & Deep Learning
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80">
+<br><b>Full Stack Dev</b>
+<br>Web Applications
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80">
+<br><b>Lifelong Learner</b>
+<br>Always Evolving
+</td>
+</tr>
+</table>
+
+### 💭 My Motto
+
+> *"Building the future, one algorithm at a time"* 🚀
+> 
+> *"Code with passion, learn with purpose"* 💡
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
