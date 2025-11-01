@@ -675,6 +675,8 @@ Enables more<br>open source work
   <img src="https://img.shields.io/badge/Made%20in-Indonesia%20🇮🇩-e74c3c?style=for-the-badge" alt=""/>
 </p>
 
+<br>
+
 <table>
 <tr>
 <td align="center">
@@ -691,6 +693,8 @@ Enables more<br>open source work
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<p>
+<a href="https://github.com/mocitaz">@mocitaz</a> • 2024-2025 • Made with ❤️ in Indonesia 🇮🇩
+</p>
 
 </div>
