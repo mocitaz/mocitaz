@@ -2,7 +2,8 @@
 <!-- Crafted with ❤️ by Luthfi Fauzi -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&animation=twinkling" width="100%"/>
+  <!-- NEW HEADER STYLE: Slice (more modern & edgy) -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&fontSize=90" width="100%"/>
   
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=500&lines=Luthfi+Fauzi" alt="Typing SVG" />
@@ -88,7 +89,7 @@ fun_fact: I train neural networks and they train my patience.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=100&section=footer" width="100%"/>
   <br/>
   <p>© 2025 Luthfi Fauzi • Built with 🖤</p>
 </div>
