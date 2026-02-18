@@ -55,6 +55,7 @@ class LuthfiFauzi:
         self.username = "mocitaz"
         self.role = "Machine Learning Engineer"
         self.location = "Indonesia 🇮🇩"
+        self.weather = "https://wttr.in/Indonesia?format=3" # Real-time Weather
         self.graduation = "November 2025 🎓"
         self.code = ["Python", "TypeScript", "C++"]
         self.ask_me_about = ["Generative AI", "Cloud Arch", "Scalable Systems"]
