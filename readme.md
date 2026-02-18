@@ -125,7 +125,7 @@ print(me.fun_fact())
   <br/>
   
   <!-- VISITOR COUNTER (Cyberpunk/Retro Style) -->
-  <img src="https://profile-counter.glitch.me/mocitaz/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=mocitaz&label=PROFILE+VIEWS&style=plastic&color=00ff00" alt="Visitor Count" />
   
   <p>© 2025 Luthfi Fauzi • Built with 🖤</p>
 </div>
