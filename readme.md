@@ -69,12 +69,8 @@ fun_fact: I train neural networks and they train my patience.
 
 <div align="center">
   
-  <!-- Snake Animation (Dynamic - Note: this requires the Action to run first) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mocitaz/Nikawa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mocitaz/Nikawa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mocitaz/Nikawa/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Activity Graph (Replacement for Snake Animation) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocitaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   
   <br/><br/>
   
