@@ -49,13 +49,22 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Luthfi Fauzi
-role: Machine Learning Engineer
-location: Indonesia 🇮🇩
-graduation: November 2025 🎓
-current_focus: [Generative AI, Cloud Architecture, Scalable Systems]
-fun_fact: I train neural networks and they train my patience.
+```python
+class LuthfiFauzi:
+    def __init__(self):
+        self.username = "mocitaz"
+        self.role = "Machine Learning Engineer"
+        self.location = "Indonesia 🇮🇩"
+        self.graduation = "November 2025 🎓"
+        self.code = ["Python", "TypeScript", "C++"]
+        self.ask_me_about = ["Generative AI", "Cloud Arch", "Scalable Systems"]
+
+    def fun_fact(self):
+        return "I train neural networks and they train my patience."
+
+# Initialize the developer
+me = LuthfiFauzi()
+print(me.fun_fact())
 ```
 
 <!-- DYNAMIC QUOTE (Added for 'Mantep' vibes) -->
