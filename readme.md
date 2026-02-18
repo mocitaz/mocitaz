@@ -98,7 +98,11 @@ print(me.fun_fact())
 
 <div align="center">
   
-  <!-- Activity Graph (Replacement for Snake Animation) -->
+  <!-- 3D Isometric Contribution Graph (The "Architectural" Visuals) -->
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <br/>
+
+  <!-- Flat Activity Graph (Classic) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocitaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   
   <br/><br/>
