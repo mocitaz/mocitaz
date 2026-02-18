@@ -7,11 +7,11 @@
   
   <h1>
     <!-- Typing SVG with Glitch Effect font -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=600&lines=Luthfi+Fauzi;Machine+Learning+Eng.;Full+Stack+Dev." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=600&lines=Luthfi+Fauzi" alt="Typing SVG" />
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Scalable+Architectures+%E2%98%81%EF%B8%8F;Graduated+Nov+2025+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Graduated+Nov+2025+%F0%9F%8E%93" alt="Typing SVG" />
   </p>
 
   <br/>
