@@ -67,10 +67,7 @@ me = LuthfiFauzi()
 print(me.fun_fact())
 ```
 
-<div align="center">
-  <!-- Interactive Weather Widget (Real-time) -->
-  <img src="https://github-readme-weather.vercel.app/api?address=Indonesia&hide_border=true&title_color=ffffff&text_color=ffffff&background_color=000000&icon_color=ffffff" alt="Weather" />
-</div>
+
 
 <!-- DYNAMIC QUOTE (Refined for 'Extraordinary' vibes) -->
 <div align="center">
