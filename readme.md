@@ -70,7 +70,7 @@ print(me.fun_fact())
 <div align="center">
   <!-- Interactive Weather Widget (Real-time) -->
   <a href="https://wttr.in/Indonesia">
-    <img src="https://wttr.in/Indonesia.png?m&0" alt="Weather" />
+    <img src="https://wttr.in/Indonesia_0pq.png" alt="Weather" />
   </a>
 </div>
 
