@@ -16,6 +16,17 @@
 
   <br/>
 
+  <!-- PORTFOLIO CTA (NEW) -->
+  <a href="https://luthfafiworks.my.id/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=See+My+Latest+Projects+%F0%9F%91%87;Visit+My+Portfolio+Website+%F0%9F%9A%80" alt="Portfolio CTA" />
+  </a>
+  <br/>
+  <a href="https://luthfafiworks.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Access_Portfolio-luthfafiworks.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" height="45" alt="Portfolio Badge"/>
+  </a>
+
+  <br/><br/>
+
   <!-- Socials -->
   <p>
     <a href="https://linkedin.com/in/luthfafi">
