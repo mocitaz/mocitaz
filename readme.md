@@ -123,5 +123,9 @@ print(me.fun_fact())
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:333333&height=120&section=footer&animation=twinkling" width="100%"/>
   <br/>
+  
+  <!-- VISITOR COUNTER (Cyberpunk/Retro Style) -->
+  <img src="https://profile-counter.glitch.me/mocitaz/count.svg" alt="Visitor Count" />
+  
   <p>© 2025 Luthfi Fauzi • Built with 🖤</p>
 </div>
