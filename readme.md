@@ -101,10 +101,7 @@ print(me.fun_fact())
   <!-- Activity Graph (Replacement for Snake Animation) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocitaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   
-  <!-- GitHub Trophies (Added for 'Mantep' vibes) -->
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mocitaz&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-  <br/>
+  <br/><br/>
   
   <!-- Alternative Stats (Using Profile Summary Cards because Readme-Stats is currently flaky) -->
   <!-- Productive Time -->
