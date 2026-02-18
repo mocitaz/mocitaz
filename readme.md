@@ -58,6 +58,11 @@ current_focus: [Generative AI, Cloud Architecture, Scalable Systems]
 fun_fact: I train neural networks and they train my patience.
 ```
 
+<!-- DYNAMIC QUOTE (Added for 'Mantep' vibes) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&is_gradient=true&bg_color=000000" alt="Quote" width="100%" />
+</div>
+
 <br/>
 
 ### 🛠️ Tech Stack
@@ -85,7 +90,10 @@ fun_fact: I train neural networks and they train my patience.
   <!-- Activity Graph (Replacement for Snake Animation) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocitaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   
-  <br/><br/>
+  <!-- GitHub Trophies (Added for 'Mantep' vibes) -->
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mocitaz&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <br/>
   
   <!-- Alternative Stats (Using Profile Summary Cards because Readme-Stats is currently flaky) -->
   <!-- Productive Time -->
