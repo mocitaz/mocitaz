@@ -55,7 +55,6 @@ class LuthfiFauzi:
         self.username = "mocitaz"
         self.role = "Machine Learning Engineer"
         self.location = "Indonesia 🇮🇩"
-        self.weather = "https://wttr.in/Indonesia?format=3" # Real-time Weather
         self.graduation = "November 2025 🎓"
         self.code = ["Python", "TypeScript", "C++"]
         self.ask_me_about = ["Generative AI", "Cloud Arch", "Scalable Systems"]
@@ -67,6 +66,13 @@ class LuthfiFauzi:
 me = LuthfiFauzi()
 print(me.fun_fact())
 ```
+
+<div align="center">
+  <!-- Interactive Weather Widget (Real-time) -->
+  <a href="https://wttr.in/Indonesia">
+    <img src="https://wttr.in/Indonesia?format=%25l:+%25c+%25t+%25w&background=000000&TextColor=ffffff" alt="Weather" />
+  </a>
+</div>
 
 <!-- DYNAMIC QUOTE (Refined for 'Extraordinary' vibes) -->
 <div align="center">
