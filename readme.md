@@ -67,9 +67,11 @@ me = LuthfiFauzi()
 print(me.fun_fact())
 ```
 
-<!-- DYNAMIC QUOTE (Added for 'Mantep' vibes) -->
+<!-- DYNAMIC QUOTE (Refined for 'Extraordinary' vibes) -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&is_gradient=true&bg_color=000000" alt="Quote" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=800&height=70&lines=%22I+invented+the+term+'Object-Oriented',;and+I+can+tell+you+I+did+not+have+C%2B%2B+in+mind.%22" alt="Alan Kay Quote" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=—+Alan+Kay" alt="Alan Kay Quote Author" />
 </div>
 
 <br/>
