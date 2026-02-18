@@ -2,15 +2,16 @@
 <!-- Crafted with ❤️ by Luthfi Fauzi -->
 
 <div align="center">
-  <!-- NEW HEADER STYLE: Slice (more modern & edgy) -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&fontSize=90" width="100%"/>
+  <!-- NEW HEADER STYLE: Soft with Gradient & Twinkling Animation (Cyberpunk/Space Vibe) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:333333&height=250&section=header&animation=twinkling&fontColor=ffffff&fontSize=90" width="100%"/>
   
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=500&lines=Luthfi+Fauzi" alt="Typing SVG" />
+    <!-- Typing SVG with Glitch Effect font -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=600&lines=Luthfi+Fauzi;Machine+Learning+Eng.;Full+Stack+Dev." alt="Typing SVG" />
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+Enthusiast;Graduated+Nov+2025+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Scalable+Architectures+%E2%98%81%EF%B8%8F;Graduated+Nov+2025+%F0%9F%8E%93" alt="Typing SVG" />
   </p>
 
   <br/>
@@ -89,7 +90,7 @@ fun_fact: I train neural networks and they train my patience.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:333333&height=120&section=footer&animation=twinkling" width="100%"/>
   <br/>
   <p>© 2025 Luthfi Fauzi • Built with 🖤</p>
 </div>
